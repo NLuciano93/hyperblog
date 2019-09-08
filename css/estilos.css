@@ -10,3 +10,10 @@ body{
 	border: 1px solid #DDD;
 	margin: 0 auto;
 }
+#cabecera{
+	background: #33A;
+	color: white;
+	font-weight: bold;
+	margin:0;
+	padding: 0.5em;
+}
